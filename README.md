@@ -1,0 +1,2 @@
+# bcb-crater-detection
+This project proposes a new crater detection framework named BCB-Crater-Detection that learns bidirectional context-based features from both crater and non-crater ends.  This framework utilizes both craters and its surrounding features using deep convolutional classification and segmentation models to identify efficiently sub-kilometer craters in high-resolution panchromatic images.
